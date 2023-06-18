@@ -1,5 +1,11 @@
 import java.util.*;
-
+/*
+Time: 24:50
+Num Submissions: 3
+Learnt: Be careful what you change! I used a grid array and changed it the first time, so it got messed up :(
+Time Complexity: O(N)
+Rating: 1300
+*/
 public class wakk {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,3 +1,12 @@
+/*
+Time: an embarrassingly long time 
+Num Submissions: 2 
+Learnt: Think mathy, think simple
+Time Complexity: O(N)
+Rating: 1300
+*/
+
+
 import java.util.*;
 
 public class snowflake {

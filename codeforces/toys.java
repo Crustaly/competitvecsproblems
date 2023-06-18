@@ -1,3 +1,11 @@
+/*
+Time: 10:03
+Num Submissions: 3 (1 of them was trash sub)
+Learnt: ArrayList sort is SO GOATED, binary search is great for min/max time related stuff 
+Time Complexity: O(N)
+Rating: 1400
+*/
+
 import java.util.*;
 
 public class toys {
@@ -9,7 +17,7 @@ public class toys {
 			int n =  sc.nextInt();
 			toys = new ArrayList<Integer>();
 			for(int i =0;i<n;i++) {
-				toys.add(i);
+				toys.add(sc.nextInt());
 			}
 			Collections.sort(toys);
 			int l=0;
